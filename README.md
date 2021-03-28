@@ -5,6 +5,7 @@ Walmart provided data to Kaggle data scientists to help Walmart solve their busi
 
 Comparing the obtained results have shown that Random Forest Regressor is better than XGBoost for this problem.
 
-#The score Kaggle:
+##The score Kaggle:
+
 XGBoost: 4612.78881 
 RandomForestRegressor: 3048.03191
